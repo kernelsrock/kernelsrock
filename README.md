@@ -14,4 +14,4 @@ For business inquiries: infosec@hlabs5000.com
 - Automated and manual web application vulnerability testing.  
 - API vulnerabilities.  
 - Cloud attacks and securing cloud networks. [AWS, Azure, Google cloud]  
-- Network forensics.**
+- Network forensics.
