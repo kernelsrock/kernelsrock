@@ -1,4 +1,4 @@
-**IT Security Researcher | Hacker | Security Analyst.  
+** IT Security Researcher | Hacker | Security Analyst.  
 Acknowledged by 60+ World Wide Companies.  
 My Biography: https://www.kernelsrock.com/p/bio.html  
 For Private Invites: kernelsrock@wearehackerone.com  
