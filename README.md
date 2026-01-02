@@ -15,3 +15,4 @@ For business inquiries: infosec@hlabs5000.com
 - API vulnerabilities.  
 - Cloud attacks and securing cloud networks. [AWS, Azure, Google cloud]  
 - Network forensics.
+<div class="tenor-gif-embed" data-postid="8774344308325020602" data-share-method="host" data-aspect-ratio="1.5" data-width="100%"><a href="https://tenor.com/view/smiling-prithviraj-gif-happy-face-chiri-gif-8774344308325020602">Smiling.Gif GIF</a>from <a href="https://tenor.com/search/smiling-gifs">Smiling GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
