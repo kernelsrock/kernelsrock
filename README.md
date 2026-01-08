@@ -2,7 +2,7 @@ IT Security Researcher | Hacker | Security Analyst.
 Acknowledged by 60+ World Wide Companies.  
 My Biography: https://www.kernelsrock.com/p/bio.html  
 For Private Invites: kernelsrock@wearehackerone.com  
-My Writeups: https://www.kernelsrock.com/writeups/ && http://kernelsrocks.medium.com/  
+My Writeups: https://www.kernelsrock.com/writeups/ && http://kernelsrock.medium.com/  
 Founder & Head of Security at http://www.hlabs5000.com - The Comprehensive Cybersecurity Learning Platform  
 Monitoring your externally facing assets has never been easier!  
 For business inquiries: infosec@hlabs5000.com  
