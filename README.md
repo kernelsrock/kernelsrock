@@ -1,10 +1,3 @@
-Hey! I am a security researcher who is dedicated full time to Bug Bounty!
-
-> I do not use any kind of **automatism** to obtain bugs, all my methodology is 100% **manual**
-
-Contact: kernelsrock@wearehackerone.com
-
-
 <img width="1201" alt="Screenshot 2020-10-01 at 1" src="https://raw.githubusercontent.com/kernelsrock/kernelsrock/refs/heads/main/jj.png">
 
 Hey 👋,
