@@ -1,4 +1,4 @@
-<img width="1201" alt="Screenshot 2020-10-01 at 1" src="https://raw.githubusercontent.com/kernelsrock/kernelsrock/refs/heads/main/jj.png">
+<img width="1201" alt="Screenshot 2020-10-01 at 1" src="https://raw.githubusercontent.com/kernelsrock/kernelsrock/refs/heads/main/4545.png">
 
 Hey! I am a security researcher who is dedicated full time to Bug Bounty!
 
